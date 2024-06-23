@@ -1,33 +1,38 @@
 ﻿using System.Text.RegularExpressions;
-using ConsoleApp1;
 using Newtonsoft.Json;
 using PuppeteerSharp;
 
-
+namespace ConsoleApp1;
 
 public record Sighting(string Href, string location, string Text, DateTime Date);
 
 
-class SlimbridgeCrawler{
+class BirdCrawler{
     private IPage page;
     
     private Regex hrefDateRegex = new Regex("""^https:\/\/theglosterbirder\.co\.uk\/\d{4}\/\d{2}\/\d{2}\/\w+-(\d+)\w{2}-(\w+)-(\d{4})\/$""");
     
-    static async Task Main(string[] args){
-        var sc = new SlimbridgeCrawler();
-        await sc.openGlosterBirder();
-        
-        await sc.GetEntriesForMonth("January", 2024);
-        await sc.GetEntriesForMonth("February", 2024);
-        await sc.GetEntriesForMonth("March", 2024);
-        //var sightings = await sc.GetSightingsForHref("https://theglosterbirder.co.uk/2024/05/13/sunday-12th-may-2024/");
-        //var json = JsonConvert.SerializeObject(sightings, Formatting.Indented);
-
-        // Console.WriteLine(json);
-        
+    static void Main(string[] args){
+        // Run().GetAwaiter().GetResult();
+        Task.Run(() => RunCrawl()).Wait();
     }
 
-    public async Task<IPage> openGlosterBirder() {
+    static async Task RunCrawl(){
+        var crawler = new BirdCrawler();
+        await crawler.openGlosterBirder();
+        
+        //TODO september 2023 inconsistent url!
+        
+        var res = await crawler.GetEntriesForMonth("May", 2023);
+        // await crawler.GetEntriesForMonth("February", 2024);
+        // await crawler.GetEntriesForMonth("March", 2024);
+        //var sightings = await sc.GetSightingsForHref("https://theglosterbirder.co.uk/2024/05/13/sunday-12th-may-2024/");
+        //var json = JsonConvert.SerializeObject(sightings, Formatting.Indented);
+        
+        Console.WriteLine($"Finished {res}");
+    }
+
+    public async Task openGlosterBirder() {
         var browserFetcher = new BrowserFetcher();
         await browserFetcher.DownloadAsync();
         var browser = await Puppeteer.LaunchAsync(new LaunchOptions
@@ -38,7 +43,6 @@ class SlimbridgeCrawler{
 
         page = await browser.NewPageAsync();
         await page.GoToAsync("https://theglosterbirder.co.uk/");
-        return page;
     }
 
     public async Task<int> GetEntriesForMonth(String month, int year)

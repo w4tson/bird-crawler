@@ -4,17 +4,16 @@ using System.IO;
 using JetBrains.Annotations;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
-using ConsoleApp1;
 
 namespace ConsoleApp1.Tests;
 
 [TestClass]
-[TestSubject(typeof(SlimbridgeCrawler))]
-public class SlimbridgeCrawlerTest{
+[TestSubject(typeof(BirdCrawler))]
+public class BirdCrawlerTest{
 
     [TestMethod]
     public void testy(){
-        var date = new SlimbridgeCrawler().toDate(@"https://theglosterbirder.co.uk/2024/05/13/sunday-12th-august-2024/");
+        var date = new BirdCrawler().toDate(@"https://theglosterbirder.co.uk/2024/05/13/sunday-12th-august-2024/");
         Assert.AreEqual(new DateTime(2024,08,12),date);
     }
 
@@ -37,7 +36,7 @@ public class SlimbridgeCrawlerTest{
 
     [TestMethod]
     public void TestJsonDeserialization(){
-        var projPath = ConsoleApp1.ElementExtensions.TryGetSolutionDirectoryInfo();
+        var projPath = ElementExtensions.TryGetSolutionDirectoryInfo();
         Console.WriteLine(projPath.FullName);
         var dataPath = Path.Combine(projPath.Parent.FullName,"data");
         string text = File.ReadAllText(Path.Combine(dataPath,"April-2024.json"));

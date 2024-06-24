@@ -1,0 +1,1184 @@
+[
+  {
+    "species": "SIBERIAN CHIFFCHAFF",
+    "location": "South Finger",
+    "count": 1,
+    "date": "2024-02-28T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWANS",
+    "location": "the Rushy",
+    "count": 2,
+    "date": "2024-02-28T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-26T00:00:00"
+  },
+  {
+    "species": "Snow Goose",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-26T00:00:00"
+  },
+  {
+    "species": "Red Kite",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-26T00:00:00"
+  },
+  {
+    "species": "Merlin",
+    "location": "",
+    "count": 1,
+    "date": "2024-02-26T00:00:00"
+  },
+  {
+    "species": "Peregrines",
+    "location": "",
+    "count": 2,
+    "date": "2024-02-26T00:00:00"
+  },
+  {
+    "species": "Oystercatchers",
+    "location": "Estuary Tower",
+    "count": 2,
+    "date": "2024-02-26T00:00:00"
+  },
+  {
+    "species": "Oystercatchers",
+    "location": "Rushy",
+    "count": 2,
+    "date": "2024-02-26T00:00:00"
+  },
+  {
+    "species": "Treecreeper",
+    "location": "South Finger",
+    "count": 1,
+    "date": "2024-02-26T00:00:00"
+  },
+  {
+    "species": "Goldcrest",
+    "location": "South Finger",
+    "count": 1,
+    "date": "2024-02-26T00:00:00"
+  },
+  {
+    "species": "Common Cranes",
+    "location": "Dumbles",
+    "count": 6,
+    "date": "2024-02-26T00:00:00"
+  },
+  {
+    "species": "OTTER",
+    "location": "Kingfisher hide",
+    "count": 3,
+    "date": "2024-02-26T00:00:00"
+  },
+  {
+    "species": "WATER PIPIT",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-25T00:00:00"
+  },
+  {
+    "species": "Goshawk",
+    "location": "Zeiss hide",
+    "count": 1,
+    "date": "2024-02-25T00:00:00"
+  },
+  {
+    "species": "PALE-BELLIED GOOSE",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-25T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-25T00:00:00"
+  },
+  {
+    "species": "Marsh Harrier",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-25T00:00:00"
+  },
+  {
+    "species": "White-fronted Geese",
+    "location": "Tack Piece",
+    "count": 182,
+    "date": "2024-02-25T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-25T00:00:00"
+  },
+  {
+    "species": "Kingfishers",
+    "location": "Kingfisher hide",
+    "count": 2,
+    "date": "2024-02-25T00:00:00"
+  },
+  {
+    "species": "PALE-BELLIED BRENT GOOSE",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "Ross’s Goose",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "Common Cranes",
+    "location": "Estuary Tower",
+    "count": 7,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "Chiffchaff",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "Marsh Harrier",
+    "location": "Kingfisher Hide",
+    "count": 1,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "Little Grebe",
+    "location": "Kingfisher Hide",
+    "count": 1,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "Stonechat",
+    "location": "Kingfisher Hide",
+    "count": 1,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "Cattle Egrets",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "sinensis Cormorant",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "drake Goldeneye",
+    "location": "Eider Pen",
+    "count": 1,
+    "date": "2024-02-24T00:00:00"
+  },
+  {
+    "species": "PALE-BELLIED BRENT GOOSE",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-23T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-23T00:00:00"
+  },
+  {
+    "species": "Peregrine",
+    "location": "Sloane Tower",
+    "count": 1,
+    "date": "2024-02-23T00:00:00"
+  },
+  {
+    "species": "Lesser White-fronted Goose",
+    "location": "Zeiss hide",
+    "count": 1,
+    "date": "2024-02-23T00:00:00"
+  },
+  {
+    "species": "Canada Geese",
+    "location": "Zeiss hide",
+    "count": 1,
+    "date": "2024-02-23T00:00:00"
+  },
+  {
+    "species": "Avocets",
+    "location": "South Lake",
+    "count": 60,
+    "date": "2024-02-23T00:00:00"
+  },
+  {
+    "species": "Cattle Egrets",
+    "location": "South Lake",
+    "count": 3,
+    "date": "2024-02-23T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-23T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-02-23T00:00:00"
+  },
+  {
+    "species": "Kingfisher",
+    "location": "Van de Bovenkamp hide",
+    "count": 1,
+    "date": "2024-02-23T00:00:00"
+  },
+  {
+    "species": "Kingfisher",
+    "location": "Kingfisher hide",
+    "count": 1,
+    "date": "2024-02-22T00:00:00"
+  },
+  {
+    "species": "Goldeneye",
+    "location": "Eider pen",
+    "count": 3,
+    "date": "2024-02-22T00:00:00"
+  },
+  {
+    "species": "Crossbills",
+    "location": "Spinney",
+    "count": 12,
+    "date": "2024-02-20T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-20T00:00:00"
+  },
+  {
+    "species": "Bewick’s Swans",
+    "location": "Rushy",
+    "count": 100,
+    "date": "2024-02-20T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-20T00:00:00"
+  },
+  {
+    "species": "Ross’s Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-20T00:00:00"
+  },
+  {
+    "species": "Ringed Plovers",
+    "location": "Dumbles",
+    "count": 3,
+    "date": "2024-02-20T00:00:00"
+  },
+  {
+    "species": "Avocets",
+    "location": "South Lake",
+    "count": 93,
+    "date": "2024-02-20T00:00:00"
+  },
+  {
+    "species": "Goldeneyes",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-02-20T00:00:00"
+  },
+  {
+    "species": "Cattle Egret",
+    "location": "Long Ground pool",
+    "count": 15,
+    "date": "2024-02-20T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "Top New Piece, South Lake",
+    "count": 1,
+    "date": "2024-02-20T00:00:00"
+  },
+  {
+    "species": "Snow Goose",
+    "location": "Big Pen",
+    "count": 1,
+    "date": "2024-02-20T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-19T00:00:00"
+  },
+  {
+    "species": "Bewick’s Swans",
+    "location": "Rushy",
+    "count": 114,
+    "date": "2024-02-19T00:00:00"
+  },
+  {
+    "species": "Pink-footed Goose",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-19T00:00:00"
+  },
+  {
+    "species": "Lesser White-fronted Goose",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-19T00:00:00"
+  },
+  {
+    "species": "Canada Geese",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-19T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-19T00:00:00"
+  },
+  {
+    "species": "Ross’s Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-19T00:00:00"
+  },
+  {
+    "species": "Barnacle Geese",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-19T00:00:00"
+  },
+  {
+    "species": "Avocets",
+    "location": "South Lake",
+    "count": 93,
+    "date": "2024-02-19T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-18T00:00:00"
+  },
+  {
+    "species": "Grey Plover",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-18T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-18T00:00:00"
+  },
+  {
+    "species": "Lesser White-fronted Goose",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-18T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-18T00:00:00"
+  },
+  {
+    "species": "Barnacle Geese",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-18T00:00:00"
+  },
+  {
+    "species": "Canada Geese",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-18T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULL",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-02-17T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-17T00:00:00"
+  },
+  {
+    "species": "Spoonbill",
+    "location": "Zeiss hide",
+    "count": 1,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "Black-tailed Godwits",
+    "location": "Zeiss hide",
+    "count": 363,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "Water Rail",
+    "location": "Zeiss hide",
+    "count": 1,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "Avocets",
+    "location": "South Lake",
+    "count": 44,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "Great Crested Grebe",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "Dark-bellied Brent Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "Barnacle Geese",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "Sedge Warbler",
+    "location": "Zeiss hide",
+    "count": 1,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "Whooper Swans",
+    "location": "Rushy",
+    "count": 2,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "Grey Plover",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "Golden Plovers",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "Water Rail",
+    "location": "Kingfisher hide",
+    "count": 1,
+    "date": "2024-02-16T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-15T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-15T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-15T00:00:00"
+  },
+  {
+    "species": "Snow Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-15T00:00:00"
+  },
+  {
+    "species": "Ross’s Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-15T00:00:00"
+  },
+  {
+    "species": "Lesser White-fronted Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-15T00:00:00"
+  },
+  {
+    "species": "Avocets",
+    "location": "South Lake",
+    "count": 41,
+    "date": "2024-02-15T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "grounds",
+    "count": 1,
+    "date": "2024-01-14T00:00:00"
+  },
+  {
+    "species": "Grey Plover",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-01-14T00:00:00"
+  },
+  {
+    "species": "Golden Plovers",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-01-14T00:00:00"
+  },
+  {
+    "species": "Pink-footed Goose",
+    "location": "",
+    "count": 1,
+    "date": "2024-01-14T00:00:00"
+  },
+  {
+    "species": "Ross’s Goose",
+    "location": "",
+    "count": 1,
+    "date": "2024-01-14T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "",
+    "count": 1,
+    "date": "2024-01-14T00:00:00"
+  },
+  {
+    "species": "Whooper Swan",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-01-14T00:00:00"
+  },
+  {
+    "species": "Goldeneye",
+    "location": "Eider pen",
+    "count": 2,
+    "date": "2024-01-14T00:00:00"
+  },
+  {
+    "species": "Goldeneye",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-01-14T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "",
+    "count": 1,
+    "date": "2024-02-13T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWANS",
+    "location": "Rushy",
+    "count": 2,
+    "date": "2024-02-13T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-13T00:00:00"
+  },
+  {
+    "species": "Grey Plover",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-13T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-13T00:00:00"
+  },
+  {
+    "species": "MERLIN",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-13T00:00:00"
+  },
+  {
+    "species": "Goldeneye",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-02-13T00:00:00"
+  },
+  {
+    "species": "Avocet",
+    "location": "South Lake",
+    "count": 42,
+    "date": "2024-02-13T00:00:00"
+  },
+  {
+    "species": "Cattle Egrets",
+    "location": "South Lake",
+    "count": 12,
+    "date": "2024-02-13T00:00:00"
+  },
+  {
+    "species": "Ringed Plover",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-13T00:00:00"
+  },
+  {
+    "species": "Kingfisher",
+    "location": "Van de Bovenkamp hide",
+    "count": 1,
+    "date": "2024-02-13T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-12T00:00:00"
+  },
+  {
+    "species": "Lesser White-fronted Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-12T00:00:00"
+  },
+  {
+    "species": "Ringed Plovers",
+    "location": "Dumbles",
+    "count": 3,
+    "date": "2024-02-12T00:00:00"
+  },
+  {
+    "species": "Red Kite",
+    "location": "NW",
+    "count": 1,
+    "date": "2024-02-12T00:00:00"
+  },
+  {
+    "species": "Grey Plover",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-12T00:00:00"
+  },
+  {
+    "species": "White-fronted Geese",
+    "location": "Tack Piece",
+    "count": 150,
+    "date": "2024-02-12T00:00:00"
+  },
+  {
+    "species": "Avocets",
+    "location": "South Lake",
+    "count": 31,
+    "date": "2024-02-12T00:00:00"
+  },
+  {
+    "species": "Cattle Egrets",
+    "location": "South Lake",
+    "count": 12,
+    "date": "2024-02-12T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-11T00:00:00"
+  },
+  {
+    "species": "Bar-tailed Godwit",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-11T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-11T00:00:00"
+  },
+  {
+    "species": "Grey Plover",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-11T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-11T00:00:00"
+  },
+  {
+    "species": "Kingfisher",
+    "location": "Kingfisher hide",
+    "count": 2,
+    "date": "2024-02-11T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-10T00:00:00"
+  },
+  {
+    "species": "Lesser White-fronted Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-10T00:00:00"
+  },
+  {
+    "species": "Canada Geese",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-10T00:00:00"
+  },
+  {
+    "species": "Barnacle Geese",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-10T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-10T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Barnacle Goose",
+    "location": "Estuary Tower",
+    "count": 189,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Ross’s Goose",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Ringed Plovers",
+    "location": "The Dumbles",
+    "count": 3,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Marsh Harrier",
+    "location": "The Dumbles",
+    "count": 1,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Black-tailed Godwits",
+    "location": "Tack Piece",
+    "count": 338,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Curlew",
+    "location": "Tack Piece",
+    "count": 43,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Redshanks",
+    "location": "Tack Piece",
+    "count": 46,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Ruff",
+    "location": "Tack Piece",
+    "count": 18,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Oystercatchers",
+    "location": "Tack Piece",
+    "count": 2,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Kingfishers",
+    "location": "Kingfisher hide",
+    "count": 2,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Great White Egret",
+    "location": "Kingfisher hide",
+    "count": 1,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Water Rail",
+    "location": "Kingfisher hide",
+    "count": 1,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Little Grebe",
+    "location": "Kingfisher hide",
+    "count": 1,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Cetti’s Warbler",
+    "location": "Kingfisher hide",
+    "count": 1,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Stonechats",
+    "location": "Kingfisher hide",
+    "count": 2,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Avocets",
+    "location": "Zeiss hide",
+    "count": 8,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-09T00:00:00"
+  },
+  {
+    "species": "Marsh Harrier",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-08T00:00:00"
+  },
+  {
+    "species": "Curlews",
+    "location": "",
+    "count": 1,
+    "date": "2024-02-08T00:00:00"
+  },
+  {
+    "species": "Grey Plover",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-08T00:00:00"
+  },
+  {
+    "species": "Golden Plovers",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-08T00:00:00"
+  },
+  {
+    "species": "Goldcrest",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-08T00:00:00"
+  },
+  {
+    "species": "MERLIN",
+    "location": "Middle Point",
+    "count": 1,
+    "date": "2024-02-06T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-06T00:00:00"
+  },
+  {
+    "species": "Water Rail",
+    "location": "central matrix",
+    "count": 1,
+    "date": "2024-02-06T00:00:00"
+  },
+  {
+    "species": "White-fronted Geese",
+    "location": "Kingfisher hide",
+    "count": 155,
+    "date": "2024-02-06T00:00:00"
+  },
+  {
+    "species": "Kingfisher",
+    "location": "Kingfisher hide",
+    "count": 1,
+    "date": "2024-02-06T00:00:00"
+  },
+  {
+    "species": "Goldeneye",
+    "location": "Eider pen",
+    "count": 1,
+    "date": "2024-02-06T00:00:00"
+  },
+  {
+    "species": "Lesser Redpoll",
+    "location": "Eider pen",
+    "count": 1,
+    "date": "2024-02-06T00:00:00"
+  },
+  {
+    "species": "Lesser White-fronted Goose",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Ross’s Goose",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Teal",
+    "location": "Estuary Tower",
+    "count": 82,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Pintails",
+    "location": "Estuary Tower",
+    "count": 3,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Shovelers",
+    "location": "Estuary Tower",
+    "count": 34,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Curlews",
+    "location": "Estuary Tower",
+    "count": 8,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Common Cranes",
+    "location": "Estuary Tower",
+    "count": 7,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Lapwing",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Dunlin",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Golden Plover",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Snow Goose",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Water Rail",
+    "location": "Willow hide",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Oystercatchers",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "White-fronted Geese",
+    "location": "Tack Piece",
+    "count": 250,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Pink-footed Goose",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-03T00:00:00"
+  },
+  {
+    "species": "Lesser White-fronted Goose",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "Canada Geese",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "Snow Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "Ross’s Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "Dark-bellied Brent Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "Peregrines",
+    "location": "Dumbles",
+    "count": 2,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "Marsh Harrier",
+    "location": "",
+    "count": 1,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "Barnacle Goose",
+    "location": "South Finger",
+    "count": 1,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "White-fronted Geese",
+    "location": "South Finger",
+    "count": 1,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "Water Rail",
+    "location": "Mesolithic hut",
+    "count": 1,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "Avocets",
+    "location": "South Lake",
+    "count": 16,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "Goldeneye",
+    "location": "Eider Pen",
+    "count": 1,
+    "date": "2024-02-02T00:00:00"
+  },
+  {
+    "species": "DARK-BELLIED BRENT GOOSE",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-02-01T00:00:00"
+  },
+  {
+    "species": "WHOOPER SWAN",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-01T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-02-01T00:00:00"
+  },
+  {
+    "species": "Cattle Egrets",
+    "location": "South Lake Causeway",
+    "count": 2,
+    "date": "2024-02-01T00:00:00"
+  }
+]

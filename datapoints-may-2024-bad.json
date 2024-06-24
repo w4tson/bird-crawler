@@ -1,0 +1,1244 @@
+[
+  {
+    "species": "CURLEW SANDPIPER",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-04-30T00:00:00"
+  },
+  {
+    "species": "Dunlins",
+    "location": "Rushy",
+    "count": 4,
+    "date": "2024-04-30T00:00:00"
+  },
+  {
+    "species": "Yellow Wagtail",
+    "location": "Kingfisher hide",
+    "count": 1,
+    "date": "2024-04-30T00:00:00"
+  },
+  {
+    "species": "WHITE-SPOTTED BLUETHROAT",
+    "location": "Middle Point",
+    "count": 1,
+    "date": "2024-04-30T00:00:00"
+  },
+  {
+    "species": "Egyptian Geese",
+    "location": "Tack Piece",
+    "count": 4,
+    "date": "2024-04-30T00:00:00"
+  },
+  {
+    "species": "Yellow Wagtails",
+    "location": "Hogarth hide",
+    "count": 2,
+    "date": "2024-04-30T00:00:00"
+  },
+  {
+    "species": "Little Ringed Plovers",
+    "location": "Hogarth hide",
+    "count": 2,
+    "date": "2024-04-30T00:00:00"
+  },
+  {
+    "species": "GARGANEY",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-29T00:00:00"
+  },
+  {
+    "species": "Whinchat",
+    "location": "Summer Walkway",
+    "count": 1,
+    "date": "2024-04-29T00:00:00"
+  },
+  {
+    "species": "Cuckoos",
+    "location": "Middle Point",
+    "count": 2,
+    "date": "2024-04-29T00:00:00"
+  },
+  {
+    "species": "Lesser Whitethroat",
+    "location": "Middle Point",
+    "count": 1,
+    "date": "2024-04-29T00:00:00"
+  },
+  {
+    "species": "Wheatears",
+    "location": "Middle Point",
+    "count": 2,
+    "date": "2024-04-29T00:00:00"
+  },
+  {
+    "species": "WHITE-SPOTTED BLUETHROAT",
+    "location": "Middle Point",
+    "count": 1,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Grasshopper Warbler",
+    "location": "Middle Point",
+    "count": 1,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Lesser Whitethroats",
+    "location": "",
+    "count": 2,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Cuckoo",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Swift",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Common Sandpipers",
+    "location": "",
+    "count": 5,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Med Gulls",
+    "location": "",
+    "count": 4,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "LITTLE GULLS",
+    "location": "Tack Piece",
+    "count": 2,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Snow Goose",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Egyptian Goose",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Swifts",
+    "location": "Tack Piece",
+    "count": 2,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Goldeneye",
+    "location": "Big Pen",
+    "count": 1,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Wheatear",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Kingfisher",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Grey Partridges",
+    "location": "",
+    "count": 2,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Common Cranes",
+    "location": "",
+    "count": 3,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Marsh Harrier",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "Reed Warblers",
+    "location": "",
+    "count": 2,
+    "date": "2024-04-28T00:00:00"
+  },
+  {
+    "species": "WHITE-SPOTTED BLUETHROAT",
+    "location": "Middle Point",
+    "count": 1,
+    "date": "2024-04-27T00:00:00"
+  },
+  {
+    "species": "KITTIWAKE",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-27T00:00:00"
+  },
+  {
+    "species": "Black-tailed Godwits",
+    "location": "Tack Piece",
+    "count": 36,
+    "date": "2024-04-27T00:00:00"
+  },
+  {
+    "species": "Avocets",
+    "location": "Tack Piece",
+    "count": 2,
+    "date": "2024-04-27T00:00:00"
+  },
+  {
+    "species": "Lapwings",
+    "location": "Tack Piece",
+    "count": 2,
+    "date": "2024-04-27T00:00:00"
+  },
+  {
+    "species": "Curlews",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-27T00:00:00"
+  },
+  {
+    "species": "Whimbrel",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-27T00:00:00"
+  },
+  {
+    "species": "Ringed Plovers",
+    "location": "Tack Piece",
+    "count": 23,
+    "date": "2024-04-27T00:00:00"
+  },
+  {
+    "species": "Dunlins",
+    "location": "Tack Piece",
+    "count": 14,
+    "date": "2024-04-27T00:00:00"
+  },
+  {
+    "species": "Oystercatcher",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-27T00:00:00"
+  },
+  {
+    "species": "Snow Goose",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-27T00:00:00"
+  },
+  {
+    "species": "WHITE-SPOTTED BLUETHROAT",
+    "location": "Summer Walkway",
+    "count": 1,
+    "date": "2024-04-25T00:00:00"
+  },
+  {
+    "species": "OSPREY",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-25T00:00:00"
+  },
+  {
+    "species": "Cuckoo",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-25T00:00:00"
+  },
+  {
+    "species": "Hobbies",
+    "location": "Rushy",
+    "count": 2,
+    "date": "2024-04-24T00:00:00"
+  },
+  {
+    "species": "Little Grebe",
+    "location": "Knott hide",
+    "count": 1,
+    "date": "2024-04-24T00:00:00"
+  },
+  {
+    "species": "OSPREY",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-23T00:00:00"
+  },
+  {
+    "species": "WOODLARK",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-23T00:00:00"
+  },
+  {
+    "species": "Little Ringed Plovers",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-04-23T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULLS",
+    "location": "South Lake",
+    "count": 5,
+    "date": "2024-04-23T00:00:00"
+  },
+  {
+    "species": "Hobby",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-23T00:00:00"
+  },
+  {
+    "species": "Cuckoos",
+    "location": "Tack Piece",
+    "count": 3,
+    "date": "2024-04-23T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Hogarth hide",
+    "count": 1,
+    "date": "2024-04-23T00:00:00"
+  },
+  {
+    "species": "Snow Goose",
+    "location": "Robbie Garnett hide",
+    "count": 1,
+    "date": "2024-04-23T00:00:00"
+  },
+  {
+    "species": "RED-BREASTED MERGANSERS",
+    "location": "Severn off of the Dumbles",
+    "count": 2,
+    "date": "2024-04-22T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULLS",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-04-22T00:00:00"
+  },
+  {
+    "species": "Little Ringed Plovers",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-04-22T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-22T00:00:00"
+  },
+  {
+    "species": "Cuckoo",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-22T00:00:00"
+  },
+  {
+    "species": "ARCTIC SKUAS",
+    "location": "mud off of the Dumbles",
+    "count": 2,
+    "date": "2024-04-22T00:00:00"
+  },
+  {
+    "species": "ARCTIC TERNS",
+    "location": "Middle Point",
+    "count": 14,
+    "date": "2024-04-22T00:00:00"
+  },
+  {
+    "species": "Swifts",
+    "location": "Estuary Tower",
+    "count": 2,
+    "date": "2024-04-21T00:00:00"
+  },
+  {
+    "species": "Red Kite",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-21T00:00:00"
+  },
+  {
+    "species": "Wheatear",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-21T00:00:00"
+  },
+  {
+    "species": "Little Ringed Plovers",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-04-21T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-21T00:00:00"
+  },
+  {
+    "species": "Mediterranean Gulls",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-04-21T00:00:00"
+  },
+  {
+    "species": "Spoonbill",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-21T00:00:00"
+  },
+  {
+    "species": "GRASSHOPPER WARBLER",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-20T00:00:00"
+  },
+  {
+    "species": "Whinchat",
+    "location": "Top and Bottom New Piece",
+    "count": 1,
+    "date": "2024-04-20T00:00:00"
+  },
+  {
+    "species": "Egyptian Geese",
+    "location": "Tack Piece",
+    "count": 5,
+    "date": "2024-04-20T00:00:00"
+  },
+  {
+    "species": "Whimbrels",
+    "location": "Tack Piece",
+    "count": 3,
+    "date": "2024-04-20T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-20T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-20T00:00:00"
+  },
+  {
+    "species": "Crane",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-20T00:00:00"
+  },
+  {
+    "species": "Little Ringed Plover",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-04-20T00:00:00"
+  },
+  {
+    "species": "OSPREY",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-19T00:00:00"
+  },
+  {
+    "species": "GARGANEY",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-18T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-18T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULLS",
+    "location": "South Lake",
+    "count": 4,
+    "date": "2024-04-18T00:00:00"
+  },
+  {
+    "species": "Common Sandpiper",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-04-18T00:00:00"
+  },
+  {
+    "species": "Kittiwake",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Spoonbill",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Garganey",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Goldeneye",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Egyptian Geese",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Common Cranes",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Mediterranean Gulls",
+    "location": "South Lake",
+    "count": 5,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Avocets",
+    "location": "South Lake",
+    "count": 30,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Black-tailed Godwits",
+    "location": "South Lake",
+    "count": 40,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Common Sandpiper",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Green Sandpiper",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Whimbrel",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "White Wagtails",
+    "location": "Estuary Tower",
+    "count": 5,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Spoonbills",
+    "location": "Zeiss Hide",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Spoonbills",
+    "location": "South Finger",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Sedge Warblers",
+    "location": "",
+    "count": 0,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Green Sandpiper",
+    "location": "South Finger Hide",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Common Sandpiper",
+    "location": "South Finger Hide",
+    "count": 2,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Common Sandpiper",
+    "location": "Robbie Garnett Hide",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Little Grebe",
+    "location": "Willow Hide",
+    "count": 1,
+    "date": "2024-04-17T00:00:00"
+  },
+  {
+    "species": "Common Sandpiper",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-16T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-16T00:00:00"
+  },
+  {
+    "species": "Little Ringed Plover",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-04-16T00:00:00"
+  },
+  {
+    "species": "Little Ringed Plover",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-16T00:00:00"
+  },
+  {
+    "species": "Wheatears",
+    "location": "Estuary Tower",
+    "count": 2,
+    "date": "2024-04-16T00:00:00"
+  },
+  {
+    "species": "Yellow Wagtails",
+    "location": "Tack Piece",
+    "count": 3,
+    "date": "2024-04-16T00:00:00"
+  },
+  {
+    "species": "SWIFT",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-04-15T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-15T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-15T00:00:00"
+  },
+  {
+    "species": "Whimbrel",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-15T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULLS",
+    "location": "",
+    "count": 3,
+    "date": "2024-04-15T00:00:00"
+  },
+  {
+    "species": "Wheatears",
+    "location": "",
+    "count": 2,
+    "date": "2024-04-15T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-04-14T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULLS",
+    "location": "South Lake",
+    "count": 3,
+    "date": "2024-04-14T00:00:00"
+  },
+  {
+    "species": "Bar-tailed Godwit",
+    "location": "Dumbles edge",
+    "count": 1,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Whimbrel",
+    "location": "Dumbles edge",
+    "count": 1,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Curlews",
+    "location": "Dumbles edge",
+    "count": 32,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Greenshank",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Lesser Whitethroat",
+    "location": "Rushy hide",
+    "count": 1,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Redshanks",
+    "location": "Tack Piece",
+    "count": 6,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Greenshanks",
+    "location": "Tack Piece",
+    "count": 9,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Ruff",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULL",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Ruff",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Greenshanks",
+    "location": "South Lake",
+    "count": 6,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Oystercatcher",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Avocets",
+    "location": "South Lake",
+    "count": 82,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Black-tailed Godwits",
+    "location": "South Lake",
+    "count": 41,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Common Sandpiper",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-13T00:00:00"
+  },
+  {
+    "species": "Grasshopper Warbler",
+    "location": "Kingfisher Hide",
+    "count": 1,
+    "date": "2024-04-12T00:00:00"
+  },
+  {
+    "species": "Dark-bellied Brent Goose",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-04-12T00:00:00"
+  },
+  {
+    "species": "Spoonbill",
+    "location": "Top New Piece",
+    "count": 1,
+    "date": "2024-04-12T00:00:00"
+  },
+  {
+    "species": "Yellow Wagtail",
+    "location": "Martin Smith Hide",
+    "count": 1,
+    "date": "2024-04-12T00:00:00"
+  },
+  {
+    "species": "COMMON SCOTER",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-10T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULLS",
+    "location": "South Lake",
+    "count": 3,
+    "date": "2024-04-10T00:00:00"
+  },
+  {
+    "species": "Common Sandpiper",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-10T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-10T00:00:00"
+  },
+  {
+    "species": "Sedge Warbler",
+    "location": "Kingfisher hide",
+    "count": 1,
+    "date": "2024-04-10T00:00:00"
+  },
+  {
+    "species": "SANDWICH TERN",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-09T00:00:00"
+  },
+  {
+    "species": "ARCTIC TERN",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-04-09T00:00:00"
+  },
+  {
+    "species": "Ringed Plovers",
+    "location": "Tack Piece",
+    "count": 12,
+    "date": "2024-04-09T00:00:00"
+  },
+  {
+    "species": "Little Ringed Plover",
+    "location": "Tack Piece",
+    "count": 2,
+    "date": "2024-04-09T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-04-09T00:00:00"
+  },
+  {
+    "species": "HOBBY",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "Marsh Harriers",
+    "location": "",
+    "count": 2,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "Reed Bunting",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "Willow Warblers",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "Common Crane",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "Whimbrel",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "SANDERLING",
+    "location": "Dumbles",
+    "count": 1,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "Ringed Plovers",
+    "location": "Dumbles",
+    "count": 6,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "Wheatear",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "Greenshanks",
+    "location": "Tack Piece",
+    "count": 2,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULLS",
+    "location": "South Lake",
+    "count": 2,
+    "date": "2024-04-08T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-07T00:00:00"
+  },
+  {
+    "species": "Ringed Plover",
+    "location": "Estuary Tower",
+    "count": 6,
+    "date": "2024-04-07T00:00:00"
+  },
+  {
+    "species": "Little Ringed Plover",
+    "location": "Estuary Tower",
+    "count": 2,
+    "date": "2024-04-07T00:00:00"
+  },
+  {
+    "species": "Whimbrel",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-07T00:00:00"
+  },
+  {
+    "species": "White Wagtail",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-07T00:00:00"
+  },
+  {
+    "species": "Red Kite",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-07T00:00:00"
+  },
+  {
+    "species": "White-fronted Goose",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-07T00:00:00"
+  },
+  {
+    "species": "Swallow",
+    "location": "Estuary Tower",
+    "count": 7,
+    "date": "2024-04-07T00:00:00"
+  },
+  {
+    "species": "House Martin",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-07T00:00:00"
+  },
+  {
+    "species": "Greenshank",
+    "location": "Tack Piece",
+    "count": 2,
+    "date": "2024-04-07T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-07T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-06T00:00:00"
+  },
+  {
+    "species": "House Martins",
+    "location": "",
+    "count": 3,
+    "date": "2024-04-06T00:00:00"
+  },
+  {
+    "species": "Greenshanks",
+    "location": "Tack Piece",
+    "count": 2,
+    "date": "2024-04-06T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULL",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-06T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-04-06T00:00:00"
+  },
+  {
+    "species": "Kingfisher",
+    "location": "Kingfisher hide",
+    "count": 1,
+    "date": "2024-04-06T00:00:00"
+  },
+  {
+    "species": "SANDWICH TERN",
+    "location": "river",
+    "count": 1,
+    "date": "2024-04-06T00:00:00"
+  },
+  {
+    "species": "Greenshank",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-05T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Robbie Garnett hide",
+    "count": 1,
+    "date": "2024-04-05T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-05T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULL",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-05T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULL",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-04T00:00:00"
+  },
+  {
+    "species": "White-fronted Geese",
+    "location": "",
+    "count": 86,
+    "date": "2024-04-04T00:00:00"
+  },
+  {
+    "species": "Goshawk",
+    "location": "tack piece",
+    "count": 1,
+    "date": "2024-04-04T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-04T00:00:00"
+  },
+  {
+    "species": "Black Swan",
+    "location": "Tack Piece",
+    "count": 1,
+    "date": "2024-04-04T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-04-04T00:00:00"
+  },
+  {
+    "species": "GARGANEYS",
+    "location": "Martin Smith hide",
+    "count": 1,
+    "date": "2024-04-03T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "Martin Smith hide",
+    "count": 1,
+    "date": "2024-04-03T00:00:00"
+  },
+  {
+    "species": "Cattle Egret",
+    "location": "Robbie Garnett hide",
+    "count": 1,
+    "date": "2024-04-03T00:00:00"
+  },
+  {
+    "species": "OSPREY",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-04-02T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-02T00:00:00"
+  },
+  {
+    "species": "Red Kite",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-02T00:00:00"
+  },
+  {
+    "species": "Swallows",
+    "location": "",
+    "count": 3,
+    "date": "2024-04-02T00:00:00"
+  },
+  {
+    "species": "Sand Martins",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-02T00:00:00"
+  },
+  {
+    "species": "MERLIN",
+    "location": "Estuary Tower",
+    "count": 1,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "Cattle Egrets",
+    "location": "Dumbles",
+    "count": 5,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "Red Kites",
+    "location": "car park",
+    "count": 2,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "Goldeneye",
+    "location": "South Lake",
+    "count": 1,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "Cattle Egret",
+    "location": "Rushy",
+    "count": 1,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "MEDITERRANEAN GULL",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "SPOONBILL",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "White-fronted Geese",
+    "location": "",
+    "count": 210,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "Spotted Redshank",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "Peregrine",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "Sparrowhawk",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "Marsh Harrier",
+    "location": "",
+    "count": 1,
+    "date": "2024-04-01T00:00:00"
+  },
+  {
+    "species": "Kingfishers",
+    "location": "",
+    "count": 2,
+    "date": "2024-04-01T00:00:00"
+  }
+]

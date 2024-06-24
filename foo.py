@@ -1,10 +1,9 @@
 import duckdb
 
-df = duckdb.sql("""
-SELECT text from 'data/*.json' 
-where location = 'WWT Slimbridge'
-and lower(text) like '%van de%'
-""").df()
+duckdb.sql("""
+SELECT location, count(*) c from 'datapoints-*2024.json'
+group by location
+order by c desc  
+""").show()
 
-for t in df["Text"]:
-    print(t)
+

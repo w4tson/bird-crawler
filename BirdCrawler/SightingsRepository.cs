@@ -9,13 +9,16 @@ public class SightingsRepository {
     //TODO make this read in all the json files 
     public SightingsRepository(){
         var projPath = ElementExtensions.TryGetSolutionDirectoryInfo();
-        Console.WriteLine(projPath.FullName);
         var dataPath = Path.Combine(projPath.Parent.FullName,"data");
-        string text = File.ReadAllText(Path.Combine(dataPath,"May-2024.json"));
-        // Console.WriteLine(text);
+        
+        // read in text from json file as string
+        string text = File.ReadAllText(Path.Combine(dataPath,"January-2024.json"));
+        
+        // marshall into a list of Sighting records
         sightings = JsonConvert.DeserializeObject<List<Sighting>>(text);
     }
     
+    //TODO actually filter these 
     public List<Sighting> GetSightings(String month, int year){
         return sightings;
     }

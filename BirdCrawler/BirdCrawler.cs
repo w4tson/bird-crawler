@@ -30,11 +30,12 @@ class BirdCrawler{
         //var json = JsonConvert.SerializeObject(sightings, Formatting.Indented);
 
         var sightingsRepository = new SightingsRepository();
-        var sightings = sightingsRepository.GetSightings("not used yet", 2024);
+        var sightings = sightingsRepository.GetSightings("April", 2024);
         var interpreter = new SightingInterpreter();
         var datapoints = new List<SightingDataPoint>();
         
-        foreach (var sighting in sightings)
+        
+        foreach (var sighting in sightings.Where(s => s.location == "WWT Slimbridge"))
         {
             datapoints.AddRange(interpreter.GetDataPointsReal(sighting));
         }

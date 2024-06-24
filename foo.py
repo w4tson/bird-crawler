@@ -1,6 +1,10 @@
 import duckdb
 
-duckdb.sql("""
+df = duckdb.sql("""
 SELECT text from 'data/*.json' 
-where text like '%Bryant%'
-""").show()
+where location = 'WWT Slimbridge'
+and lower(text) like '%van de%'
+""").df()
+
+for t in df["Text"]:
+    print(t)

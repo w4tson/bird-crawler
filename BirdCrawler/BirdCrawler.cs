@@ -13,23 +13,36 @@ class BirdCrawler{
     private Regex hrefDateRegex = new Regex("""^https:\/\/theglosterbirder\.co\.uk\/\d{4}\/\d{2}\/\d{2}\/\w+-(\d+)\w{2}-(\w+)-(\d{4})\/$""");
     
     static void Main(string[] args){
-        // Run().GetAwaiter().GetResult();
         Task.Run(() => RunCrawl()).Wait();
     }
 
     static async Task RunCrawl(){
         var crawler = new BirdCrawler();
-        await crawler.openGlosterBirder();
+        //await crawler.openGlosterBirder();
         
-        //TODO september 2023 inconsistent url!
         
-        var res = await crawler.GetEntriesForMonth("May", 2023);
+        //TODO Missing data for september 2023 because of inconsistent urls!
+        
+        //var res = await crawler.GetEntriesForMonth("May", 2023);
         // await crawler.GetEntriesForMonth("February", 2024);
         // await crawler.GetEntriesForMonth("March", 2024);
         //var sightings = await sc.GetSightingsForHref("https://theglosterbirder.co.uk/2024/05/13/sunday-12th-may-2024/");
         //var json = JsonConvert.SerializeObject(sightings, Formatting.Indented);
+
+        var sightingsRepository = new SightingsRepository();
+        var sightings = sightingsRepository.GetSightings("not used yet", 2024);
+        var interpreter = new SightingInterpreter();
+        var datapoints = new List<SightingDataPoint>();
         
-        Console.WriteLine($"Finished {res}");
+        foreach (var sighting in sightings)
+        {
+            datapoints.AddRange(interpreter.GetDataPointsReal(sighting));
+        }
+
+        var dataPointsRepository = new DataPointsRepository();
+        dataPointsRepository.Store(datapoints);
+        
+        Console.WriteLine($"Finished 0");
     }
 
     public async Task openGlosterBirder() {

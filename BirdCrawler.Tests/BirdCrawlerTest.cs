@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using JetBrains.Annotations;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
@@ -44,7 +45,33 @@ public class BirdCrawlerTest{
         var result = JsonConvert.DeserializeObject<List<Sighting>>(text);
         foreach (var sighting in result)
         {
-            // Console.WriteLine(sighting);
+            Console.WriteLine(sighting);
         }
+    }
+
+
+    [TestMethod]
+    public void TestOpenAI(){
+        Console.WriteLine("start");
+        var i = new SightingInterpreter();
+        // don't call this every time cos it uses up money!
+        //i.GetDataPoints("48 Avocets with at least 13 nests on the Rushy and 71 Avocets with 14 active nests on South Lake. A Garganey reported from Zeiss hide. (Dot Jones/Ian Hull)");
+            
+    }
+
+
+    [TestMethod]
+    public void METHOD(){
+        var interpreter = new SightingInterpreter();
+
+        var sightings = new SightingsRepository().GetSightings("April", 2024);
+        var datapoints = new List<SightingDataPoint>();
+        
+        foreach (var sighting in sightings.Take(3))
+        {
+            datapoints.AddRange(interpreter.GetDataPoints(sighting.Text));
+        }
+        
+        datapoints.ForEach(d => Console.WriteLine(d));
     }
 }
